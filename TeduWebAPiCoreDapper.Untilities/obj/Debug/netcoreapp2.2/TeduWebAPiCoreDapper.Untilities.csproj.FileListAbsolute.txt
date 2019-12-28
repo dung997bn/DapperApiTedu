@@ -1,0 +1,9 @@
+D:\TEDU\TeduWebAPiCoreDapper.Untilities\bin\Debug\netcoreapp2.2\TeduWebAPiCoreDapper.Untilities.deps.json
+D:\TEDU\TeduWebAPiCoreDapper.Untilities\bin\Debug\netcoreapp2.2\TeduWebAPiCoreDapper.Untilities.dll
+D:\TEDU\TeduWebAPiCoreDapper.Untilities\bin\Debug\netcoreapp2.2\TeduWebAPiCoreDapper.Untilities.pdb
+D:\TEDU\TeduWebAPiCoreDapper.Untilities\obj\Debug\netcoreapp2.2\TeduWebAPiCoreDapper.Untilities.csproj.CoreCompileInputs.cache
+D:\TEDU\TeduWebAPiCoreDapper.Untilities\obj\Debug\netcoreapp2.2\TeduWebAPiCoreDapper.Untilities.AssemblyInfoInputs.cache
+D:\TEDU\TeduWebAPiCoreDapper.Untilities\obj\Debug\netcoreapp2.2\TeduWebAPiCoreDapper.Untilities.AssemblyInfo.cs
+D:\TEDU\TeduWebAPiCoreDapper.Untilities\obj\Debug\netcoreapp2.2\TeduWebAPiCoreDapper.Untilities.dll
+D:\TEDU\TeduWebAPiCoreDapper.Untilities\obj\Debug\netcoreapp2.2\TeduWebAPiCoreDapper.Untilities.pdb
+D:\TEDU\TeduWebAPiCoreDapper.Untilities\obj\Debug\netcoreapp2.2\TeduWebAPiCoreDapper.Untilities.csprojAssemblyReference.cache
